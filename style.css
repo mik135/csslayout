@@ -456,7 +456,7 @@ footer > div {
     align-self: flex-end;
   }
   .sectwo {
-    padding: 20px;
+    padding: 30px;
     grid-template-columns: 1fr;
   }
   .secthree {
