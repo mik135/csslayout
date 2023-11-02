@@ -456,8 +456,12 @@ footer > div {
     align-self: flex-end;
   }
   .sectwo {
-    padding: 30px;
+    padding: 20px;
     grid-template-columns: 1fr;
+
+    & > div {
+      padding: 2em 2em 1em 2em;
+    }
   }
   .secthree {
     flex-direction: column;
